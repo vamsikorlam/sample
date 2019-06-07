@@ -1,0 +1,14 @@
+2019-05-27 14:27:59,267  INFO [main] Timesheet:38 - Actual Name : Ananthapalli Bhaskar Kiran
+2019-05-27 14:28:00,136  INFO [main] Timesheet:45 - 5/26/19 - 6/1/19
+2019-05-27 14:28:00,181  INFO [main] Timesheet:52 - No of Rows in Table : 4
+2019-05-27 14:28:00,285  INFO [main] Timesheet:122 - pass 15
+2019-05-27 14:28:00,317  INFO [main] Timesheet:127 - Sun, 5/26, Baseline – Operations Management, ETC: 0.00
+2019-05-27 14:28:00,400  INFO [main] Timesheet:127 - Mon, 5/27, Baseline – Operations Management, ETC: 0.00
+2019-05-27 14:28:00,486  INFO [main] Timesheet:127 - Tue, 5/28, Baseline – Operations Management, ETC: 0.80
+2019-05-27 14:28:00,619  INFO [main] Timesheet:127 - Wed, 5/29, Baseline – Operations Management, ETC: 0.80
+2019-05-27 14:28:00,745  INFO [main] Timesheet:127 - Thu, 5/30, Baseline – Operations Management, ETC: 0.80
+2019-05-27 14:28:00,870  INFO [main] Timesheet:127 - Fri, 5/31, Baseline – Operations Management, ETC: 0.80
+2019-05-27 14:28:01,006  INFO [main] Timesheet:127 - Sat, 6/1, Baseline – Operations Management, ETC: 0.00
+2019-05-27 14:28:01,082  INFO [main] Timesheet:127 - 
+2019-05-27 14:28:01,132  INFO [main] Timesheet:64 - Investment Name found
+2019-05-27 14:28:03,621  INFO [main] Timesheet:81 - As Today is not Friday we are Saving the Timesheet
